@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Przemek (or John for English speakers)
+# 👋 Hi, I'm John.
 
 💡 **Creative Manager | AI & Python Enthusiast | Web & UX Explorer**  
 
